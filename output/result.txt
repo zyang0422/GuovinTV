@@ -183,7 +183,7 @@ CCTV-5+,http://lt.hxtre.com:35455/gaoma/cctv5p.m3u8
 CETV1,http://120.55.49.231:3095/rtp/233.50.201.75:5140
 CETV4,http://120.55.49.231:3095/rtp/233.50.200.162:5140
 
-🕘️更新时间,#genre#
+更新时间,#genre#
 2025-02-08 06:40:54,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 
