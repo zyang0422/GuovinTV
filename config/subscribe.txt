@@ -1,6 +1,11 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
+http://8.138.7.223/live.txt
+http://jxnklgb.serv00.net/ku9.php
+https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
+http://tm.tttttttttt.top/txt/7788.txt
+
 https://ghproxy.cc/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://ghproxy.cc/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://ghproxy.cc/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
@@ -15,7 +20,4 @@ https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv
 https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://ghproxy.cc/https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://ghproxy.cc/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-http://8.138.7.223/live.txt
-http://jxnklgb.serv00.net/ku9.php
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
-http://tm.tttttttttt.top/txt/7788.txt
+
