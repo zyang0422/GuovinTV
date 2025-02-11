@@ -29,7 +29,7 @@ http://jxnklgb.serv00.net/ku9.php
 https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
 http://tm.tttttttttt.top/txt/7788.txt
 
-https://raw.githubusercontent.com/zyang0422/nanfeng/refs/heads/main/live.txt
+https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/live.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
