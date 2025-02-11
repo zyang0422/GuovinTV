@@ -186,6 +186,67 @@ Now华剧
 
 
 
+AKTV,#genre#
+中天新闻台
+翡翠台
+TVBS-新闻台
+寰宇新闻台
+凤凰中文
+TVBS
+无线新闻台(北美)
+凤凰资讯
+无线新闻台
+美亚电影台(HK)
+明珠台
+东森新闻
+凤凰香港
+TVB Plus,
+中天亚洲台
+翡翠综合台(北美)
+千禧经典台(HK)
+翡翠剧集台(北美)
+娱乐新闻台(HK)
+PopC
+黄金翡翠台
+myTV SUPER 18台
+中视
+明珠剧集台(北美)
+Channel 8 HD
+Channel 5 HD
+viutv 99
+靖天电影台
+华视
+28 AI 智慧赛马
+tvN
+龙华电影台
+ROCK Action
+龙华经典台
+viutv6 96
+Channel U HD
+Animax(HK
+无线卫星新闻台
+龙华日韩台
+Thrill
+France 24
+DW
+亚洲新闻台
+东方卫视国际频道
+KIX
+Nick Jr
+Nickelodeon
+AXN
+i-Fun 动漫台
+NHK World-Japan
+ZooMoo
+NHK东京総合
+Love Nature HD
+Love Nature HD,
+Astro iQIYI
+Astro Xing He
+Astro AEC
+纬来体育台
+
+
 
 广东频道,#genre#
 广东珠江
