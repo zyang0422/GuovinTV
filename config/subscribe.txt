@@ -26,7 +26,6 @@ https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.
 
 http://8.138.7.223/live.txt
 http://jxnklgb.serv00.net/ku9.php
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
 http://tm.tttttttttt.top/txt/7788.txt
 
 https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/live.txt
