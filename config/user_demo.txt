@@ -185,6 +185,38 @@ Now华剧
 卫视卡式
 
 
+AKTV,#genre#
+中天新闻台
+翡翠台
+TVBS-新闻台
+寰宇新闻台
+凤凰中文
+TVBS
+无线新闻台(北美)
+凤凰资讯
+无线新闻台
+美亚电影台(HK)
+东森新闻
+凤凰香港
+TVB Plus
+中天亚洲台
+千禧经典台(HK)
+中视
+靖天电影台
+华视
+tvN
+龙华电影台
+ROCK Action
+龙华日韩台
+亚洲新闻台
+Nick Jr
+Nickelodeon
+NHK World-Japan
+Love Nature HD
+纬来体育台
+
+
+
 
 
 广东频道,#genre#
